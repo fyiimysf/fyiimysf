@@ -62,8 +62,8 @@ Here are some ideas to get you started:
 ### [Flowy](https://fyiimysf.github.io)
 *Menstrual cycle tracking app providing personalized insights.*
 
-### [Pawster](https://pawster-six.vercel.app)
-*Pet profile matching app built with React and Supabase.*
+### [GloveBox](https://glovebox.pages.dev)
+*URL stashing web app that with a modern design.*
 
 ---
 
