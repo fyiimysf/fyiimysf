@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 *Menstrual cycle tracking app providing personalized insights.*
 
 ### [GloveBox](https://glovebox.pages.dev)
-*URL stashing web app that with a modern design.*
+*URL stashing web app that uses OpenGraph meta implementation with a modern design.*
 
 ---
 
