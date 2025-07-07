@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ### [Flowy](https://fyiimysf.github.io)
 *Menstrual cycle tracking app providing personalized insights.*
 
-### [GloveBox](https://glovebox.pages.dev)
+### [GloveBox](https://glovebox.appmy.workers.dev/tabs/home)
 *URL stashing web app that uses OpenGraph meta implementation with a modern design.*
 
 ---
@@ -70,10 +70,10 @@ Here are some ideas to get you started:
 ## 📫 Connect with Me
 
 - [GitHub](https://github.com/fyiimysf)
-- [LinkedIn](https://www.linkedin.com/in/yousaf-mohammad)
+- [LinkedIn](https://www.linkedin.com/in/yousaf-m)
 - [Bluesky](https://bsky.app/profile/fyiimysf.bsky.social)
-- [Instagram](https://www.instagram.com/uceph.em/)
-- 📧 Email: m.y5f@yahoo.com
+- [Instagram (Main)](https://www.instagram.com/uceph.em/) or [Instagram (Work)](https://www.instagram.com/yousaf.moh4m/)
+- 📧 Email: yousaf.moh4m@gmail.com
 
 
 <p align="left">
