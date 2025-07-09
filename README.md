@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 - [GitHub](https://github.com/fyiimysf)
 - [LinkedIn](https://www.linkedin.com/in/yousaf-m)
 - [Bluesky](https://bsky.app/profile/fyiimysf.bsky.social)
-- [Instagram (Main)](https://www.instagram.com/uceph.em/) or [Instagram (Work)](https://www.instagram.com/yousaf.moh4m/)
+- [Instagram (Personal)](https://www.instagram.com/uceph.em/) or [Instagram (Work)](https://www.instagram.com/yousaf.moh4m/)
 - 📧 Email: yousaf.moh4m@gmail.com
 
 
